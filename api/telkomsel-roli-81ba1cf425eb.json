@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telkomsel-roli",
+  "private_key_id": "81ba1cf425ebd0842f95111d20fcb146ed3dccb7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsaAvOG1Kg+NQy\njLJD2GyucYeDku49GXahyO03WUMVRjA3O68XXChnd2C7terQIQthtCNwZXwRVJD+\nfZQ7bjLsnGgoP53SSQQklIk7MlWuP8KgBdUzJdNEC+4f3oOrS+H0VC2hFKBvGLO9\n9jPuZitPbeCRyN+n3Fn9UDKF76EjASNDVfqVq8vTfZ1gJWtShYh9UYKfZirDAu3l\nQGnXe8Dy/l1W8Jgtc21pl6SZ7MhJhie2bZCynsqAXIILCnNY0t5+0C1ZlPAMu0HQ\n9opXKE7g8FnHd1YxaUGGfAt2V9LBSxCEBgm47JZXFHN5Ta955f6bapxygsFDMIUa\ntWzBW2sjAgMBAAECggEASK7Qk0Knkh907h6spLegEebg15JhB7ctcUVQ5G2oP1bI\nyvBJf5KlogEM8fXemYHk13rnGeJe7Lt3KSLuFCQAKgpCSv2O3nFT4swQErnEr2JH\n/ciXuilvKJfS+vKHFfc2uhem6OrWPB/w3tvlxtKh3amX7D4ANDdMZOOjeR2uFCAc\nct8KcaIsC9NW3YZN89Dsn1bPmdIE5G8wXkjAk8T6hiK3gxNi5Z1wx0Mdr/46hjWF\nwFUAxK+XczsXGXum7jV8BRs89m+0WAmS4ZSeyV8NcbRgzWO8aRcx0CSN6NR1vI1S\nTyYyHuBMXP+2xahImTo1OnkmaSf0Q2N+W8hL169rEQKBgQDYfetZSZX0TAqMsNNr\n7Rz4r6DMpbErD0+6h7S9jAKSc6x966dKIRRIu7XRsvD+qXj8wnrXJgAiPRLFz9MX\nbANvkwj5bkF/nDUyxQX1uNrrD3v8Zl4lEeUZxNC/WENuvPzpcKt6ai1KIQXETORD\nsyJNpzt6FFKr7N/PD9yL8ApjiQKBgQDL3opViQKn4EHGYDMVRWpWL/d91EJGRibY\nxWAGISbv7O4REPTp7udho/pn8FoUPxrRAOm8eImtuzCC3M1DigjspAzvbkVWxrHb\nr5NKcnV3KGVEMC4f8j0gOs31paj/MCsQo5/H4gLhA63vScYohZLBVqMc+PUc7ori\nD5ELloOySwKBgHZ+nXW2mDQp9tBA7Mey9duMTagVvN5DuDDxnFTvMG02kSAu/tbN\nOkwBKiiIF+5bllRKom/mZcZXxVGuSe0U+uB0C0JzPbh6KIgMXRG8x15HkGZ7JWaG\n3+310wgYaHhRSuD/AWy0duuPHZfvOjVv9AOq2BweyY0+ztWH6gBSN215AoGBAJQe\nUIVKsRpFLaSyegrHTzXlTbwm/ivOhiTSaiyp439HtcPCfR6Fi6h+Gc1wbBHvs00M\ni8V6EhWePeWmBKBAZrF/k0JV7JzaaZiCHNJnDH8RY1nCY5CkT9Ldxovl2z3kwjUp\nnEn+JDdVlAaZpBYGzhQYHRRMsNFfYppR0wEHTxG3AoGAGgo45b967p+By8vWHN+G\nkazcxCx8+t3Ox3gc9Fooy/eX4aHRRCYCA2zPRbkfQ5WiQr5DpNkuWQMcnojD+K6f\ncj+16RryqPT2eurHJaEpG5/brzBV4ZRlJIgxPTlkmGXEL8J1dJvGPxYieJUzEeVH\n3134Y9SJOrnDRmakFoPPNhM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ga4automationservices@telkomsel-roli.iam.gserviceaccount.com",
+  "client_id": "104462709439148117648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ga4automationservices%40telkomsel-roli.iam.gserviceaccount.com"
+}
