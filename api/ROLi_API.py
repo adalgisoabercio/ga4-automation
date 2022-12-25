@@ -2,13 +2,13 @@
 class ROLi_Google_API:
     
     # Google Cloud Service Account Private Key
-    SERVICE_ACCOUNT = './api/telkomsel-roli-81ba1cf425eb.json'
+    SERVICE_ACCOUNT = ''
     
     # Google Analytics Property Instances
-    GOOGLE_ANALYTICS_PROPERTY_ID = '151512208'
+    GOOGLE_ANALYTICS_PROPERTY_ID = ''
 
     # Google Sheets Instances
-    SHEET_ID = '147GkS5rKp6yMi_vIWM9Zp3YKmMW5f7bbK1cVqi2IsfM'
+    SHEET_ID = ''
     SCOPE = [
         "https://spreadsheets.google.com/feeds",
         "https://www.googleapis.com/auth/spreadsheets",
